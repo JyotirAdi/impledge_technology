@@ -6,7 +6,7 @@ API integration test
 2. Install Node url: https://nodejs.org/en/download/
 3. Open terminal in the directory of the code.
 4. Run "npm install express".
-5. start the app by "npm run".
+5. start the app by "npm start".
 
 # Rest API calls:
 
