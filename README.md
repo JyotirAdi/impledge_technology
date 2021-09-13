@@ -1,4 +1,4 @@
-# impledge_technology-
+# impledge_technology
 API integration test
 
 # Steps to run the code:
