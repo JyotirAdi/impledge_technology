@@ -10,6 +10,8 @@ API integration test
 
 # Rest API calls:
 
+Postman API documentation URL: https://documenter.getpostman.com/view/17490496/U16nK47h
+
 1. API online: connects the app with the API and console it onto the front end. Can be accessed by the url: http://localhost:3000
 
 2. createShipment: This part of the code creates the shipment with fromAddress and toAddress along with some predefined details like parcel and customInfo.
